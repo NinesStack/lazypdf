@@ -8,7 +8,7 @@ import (
 
 	"gopkg.in/alecthomas/kingpin.v2"
 
-	"github.com/Nitro/lazypdf"
+	"github.com/NinesStack/lazypdf"
 )
 
 type rasterType int
