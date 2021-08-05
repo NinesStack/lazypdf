@@ -1,6 +1,9 @@
 LazyPDF
 =======
 
+This began as a rollback fork of https://github.com/Nitro/lazypdf to return it
+to use as a library.
+
 [![](https://travis-ci.org/Nitro/lazypdf.svg?branch=master)](https://travis-ci.org/Nitro/lazypdf)
 
 This is a rasterizing engine for PDF documents, built around MuPDF. It exports
